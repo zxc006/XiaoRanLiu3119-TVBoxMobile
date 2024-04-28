@@ -6,7 +6,7 @@ package com.github.tvbox.osc.util;
  * @description:
  */
 public class HawkConfig {
-    public static final String API_URL = "api_url";
+    public static final String API_URL = "http://124.222.175.111:89/app/api.json";
     public static final String LIVE_URL = "live_url";
     public static final String EPG_URL = "epg_url";
     public static final String SHOW_PREVIEW = "show_preview";
